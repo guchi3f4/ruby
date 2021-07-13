@@ -1,0 +1,2 @@
+name = "fuma"
+puts name
